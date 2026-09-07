@@ -114,3 +114,16 @@ Meta підключиш, коли захочеш: `/ig-audit-setup meta`.
 MIT. Роби з ним що хочеш.
 
 — Віталій Матвєєв
+
+---
+
+## Оновлення плагіна
+
+Джерело правди — папка `matvieiev-ig-audit/` в основному робочому репозиторії.
+Після змін у ній:
+
+```bash
+git subtree push --prefix=matvieiev-ig-audit plugin main
+```
+
+Ремоут `plugin` вже налаштований на цей репозиторій по HTTPS.
