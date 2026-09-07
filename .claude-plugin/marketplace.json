@@ -1,0 +1,15 @@
+{
+  "name": "matvieiev",
+  "description": "Плагіни Віталія Матвєєва: агенти, які роблять роботу, а не пояснюють її",
+  "owner": { "name": "Vitalii Matvieiev", "url": "https://matvieiev.com" },
+  "plugins": [
+    {
+      "name": "ig-audit-360",
+      "description": "Аудит Instagram-акаунта від імені аналітика Лайкі: вигрузка даних, порівняння з конкурентами, дашборд з кадрами постів і щотижневий звіт у Telegram. Проводить через реєстрацію ключів у браузері й ставить крон сам.",
+      "author": { "name": "Vitalii Matvieiev", "url": "https://matvieiev.com" },
+      "category": "marketing",
+      "source": "./ig-audit-360",
+      "homepage": "https://matvieiev.com/agents/ig-audit/"
+    }
+  ]
+}

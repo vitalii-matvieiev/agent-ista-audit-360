@@ -1,0 +1,12 @@
+{
+  "name": "ig-audit-360",
+  "version": "1.0.0",
+  "description": "Аудит Instagram-акаунта: вигрузка даних, порівняння з конкурентами, дашборд з кадрами постів і щотижневий звіт у Telegram. Веде через реєстрацію ключів і ставить крон сам.",
+  "author": { "name": "Vitalii Matvieiev", "url": "https://matvieiev.com" },
+  "homepage": "https://matvieiev.com/agents/ig-audit/",
+  "repository": "https://github.com/matvieiev/ig-audit-360",
+  "license": "MIT",
+  "keywords": ["instagram", "audit", "analytics", "smm", "reels", "content", "ukrainian"],
+  "skills": "skills",
+  "commands": "commands"
+}
