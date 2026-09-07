@@ -34,7 +34,7 @@
 ## Встановлення
 
 ```
-/plugin marketplace add matvieiev/ig-audit-360
+/plugin marketplace add vitalii-matvieiev/agent-ista-audit-360
 /plugin install ig-audit-360@matvieiev
 ```
 
